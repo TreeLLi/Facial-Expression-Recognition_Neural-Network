@@ -1,0 +1,21 @@
+1. reg: 0.00000 - accuracy: 0.4775
+2. reg: 0.00001 - accuracy: 0.4830
+3. reg: 0.00677 - accuracy: 0.4685
+4. reg: 0.00103 - accuracy: 0.4605
+5. reg: 0.00001 - accuracy: 0.4745
+6. reg: 0.00181 - accuracy: 0.4725
+7. reg: 0.00000 - accuracy: 0.4835
+8. reg: 0.00009 - accuracy: 0.4770
+9. reg: 0.00018 - accuracy: 0.4750
+10. reg: 0.00091 - accuracy: 0.4850
+11. reg: 0.00000 - accuracy: 0.4705
+12. reg: 0.00006 - accuracy: 0.4785
+13. reg: 0.00000 - accuracy: 0.4740
+14. reg: 0.01098 - accuracy: 0.4765
+15. reg: 0.00003 - accuracy: 0.4770
+16. reg: 0.00078 - accuracy: 0.4730
+17. reg: 0.00004 - accuracy: 0.4780
+18. reg: 0.00009 - accuracy: 0.4725
+19. reg: 0.01315 - accuracy: 0.4750
+20. reg: 0.00002 - accuracy: 0.4775
+Best accur reg - 10: 0.00091 with accuracy 0.4850

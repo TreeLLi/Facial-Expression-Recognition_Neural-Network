@@ -1,0 +1,21 @@
+1. drop: 0.45047 - accuracy: 0.4660
+2. drop: 0.37866 - accuracy: 0.4625
+3. drop: 0.34296 - accuracy: 0.4650
+4. drop: 0.33324 - accuracy: 0.4675
+5. drop: 0.28209 - accuracy: 0.4630
+6. drop: 0.19420 - accuracy: 0.4640
+7. drop: 0.23649 - accuracy: 0.4650
+8. drop: 0.25473 - accuracy: 0.4755
+9. drop: 0.45659 - accuracy: 0.4620
+10. drop: 0.18499 - accuracy: 0.4810
+11. drop: 0.40647 - accuracy: 0.4715
+12. drop: 0.37110 - accuracy: 0.4710
+13. drop: 0.28382 - accuracy: 0.4610
+14. drop: 0.39128 - accuracy: 0.4785
+15. drop: 0.44145 - accuracy: 0.4630
+16. drop: 0.25952 - accuracy: 0.4715
+17. drop: 0.38705 - accuracy: 0.4685
+18. drop: 0.45161 - accuracy: 0.4685
+19. drop: 0.40653 - accuracy: 0.4685
+20. drop: 0.18552 - accuracy: 0.4625
+Best accur drop - 10: 0.18499 with accuracy 0.4810

@@ -1,0 +1,11 @@
+1. layer: [1744, 1645] - accuracy: 0.4575
+2. layer: [1571, 1173] - accuracy: 0.4485
+3. layer: [ 930, 1688] - accuracy: 0.4525
+4. layer: [1062, 1568] - accuracy: 0.4475
+5. layer: [1450, 1555] - accuracy: 0.4495
+6. layer: [1129, 1749] - accuracy: 0.4485
+7. layer: [ 960, 1703] - accuracy: 0.4435
+8. layer: [1234, 1704] - accuracy: 0.4490
+9. layer: [1313, 1582] - accuracy: 0.4560
+10. layer: [1185, 1730] - accuracy: 0.4460
+Best accur layer - 1: [1744, 1645] with accuracy 0.4575

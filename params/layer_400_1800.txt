@@ -1,0 +1,21 @@
+1. layer: [1368,  714] - accuracy: 0.4515
+2. layer: [ 931, 1674] - accuracy: 0.4410
+3. layer: [ 886,  411] - accuracy: 0.4510
+4. layer: [1360, 1198] - accuracy: 0.4500
+5. layer: [1425, 1708] - accuracy: 0.4485
+6. layer: [ 424,  699] - accuracy: 0.4445
+7. layer: [1205,  699] - accuracy: 0.4470
+8. layer: [1587, 1621] - accuracy: 0.4470
+9. layer: [ 773,  931] - accuracy: 0.4390
+10. layer: [1039, 1506] - accuracy: 0.4460
+11. layer: [1149,  934] - accuracy: 0.4515
+12. layer: [1789,  961] - accuracy: 0.4580
+13. layer: [1681, 1191] - accuracy: 0.4625
+14. layer: [1395, 1287] - accuracy: 0.4530
+15. layer: [ 953,  819] - accuracy: 0.4515
+16. layer: [1186, 1782] - accuracy: 0.4490
+17. layer: [1403, 1487] - accuracy: 0.4510
+18. layer: [1114, 1034] - accuracy: 0.4540
+19. layer: [1503, 1285] - accuracy: 0.4540
+20. layer: [1297, 1266] - accuracy: 0.4520
+Best accur layer - 13: [1681, 1191] with accuracy 0.4625
